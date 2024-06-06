@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samien Shaheed</h1>
 <h3 align="center">A passionate data scientist and machine learning engineer</h3>
 
-- 🌱 I’m currently learning **C++, OpenGL,**
+- 🌱 I’m currently learning **RL, PowerBI, GenAI, C++, OpenGL, and Shaders**
 
 - 💬 Ask me about **AI, CNN**
 
