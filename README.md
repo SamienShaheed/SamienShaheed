@@ -19,14 +19,18 @@ I am an AI/ML Engineer and Software Developer. I am passionate about solving pra
 
 My work includes publishing a paper on deep learning for ecosystem monitoring using audio data, which was accepted by The Journal of Acoustic Society of America. I have also contributed to projects such as improving medical simulation runtime for healthcare, creating an adaptive learning platform, and building smart recommendation systems. Currently, I am working on advanced demand-surge prediction systems for ride-hailing platforms and building a large scale event-management ERP Software. <br>
 
+<p align="center"> Contact Me! </p>
 
 <div id="badges" align="center">
   <a href="http://linkedin.com/in/samienshaheed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://samienshaheed.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/Visit_My_Site-FF5722?style=flat-square&logo=rocket&logoColor=white" alt="Website Badge"/>
   </a>
+  <a href="mailto:samienshaheed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SamienShaheed&style=flat-square&color=red" alt=""/>
