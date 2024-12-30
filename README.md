@@ -1,7 +1,7 @@
 # About Me
 
 I am an AI/ML Engineer and Software Developer. I am passionate about solving practical challenges using AI and delivering innovative solutions. I have experience coding with:
-<p>
+<p align="center">
   <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />  
