@@ -1,6 +1,8 @@
 # About Me
 
-I am an AI/ML Engineer and Software Developer. I am passionate about solving practical challenges using AI and delivering innovative solutions. I have experience coding with:
+Hi There!
+
+I am an AI/ML Engineer and Software Developer. I enjoy solving practical challenges using AI and creating fullstack apps. I have experience coding with:
 <p align="center">
   <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
@@ -17,7 +19,9 @@ I am an AI/ML Engineer and Software Developer. I am passionate about solving pra
  
 <br>
 
-My work includes publishing a paper on deep learning for ecosystem monitoring using audio data, which was accepted by The Journal of Acoustic Society of America. I have also contributed to projects such as improving medical simulation runtime for healthcare, creating an adaptive learning platform, and building smart recommendation systems. Currently, I am working on advanced demand-surge prediction systems for ride-hailing platforms and building a large scale event-management ERP Software. <br>
+My work includes publishing a paper on deep learning for ecosystem monitoring using audio data, which was accepted by The Journal of Acoustic Society of America. I have also contributed to projects such as improving medical simulation runtime for healthcare using FNO models for faster PDE calculations, and creating an adaptive learning platform for catered learning using smart recommendation systems. Currently, I am working on advanced demand-surge prediction systems for ride-hailing platforms and building a large scale event-management ERP Software.
+
+If you have any fun project ideas, drop a message and I'd love to sit and discuss it! <br>
 
 <p align="center"> Contact Me! </p>
 
